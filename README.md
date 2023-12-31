@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aldhair and I'm Currently 24 
+- 👋 Hi, I’m Aldhair and I'm currently 24 
 - 👀 I’m interested in Data Science y Machine Learning ❤️🤖
 - 🌱 I’m currently learning Data Analytics 📊
 - 💞️ I’m looking to collaborate on ...
