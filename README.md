@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shinobu-11
-- 👀 I’m interested in Data Science y Machine Learning <3
-- 🌱 I’m currently learning Data Analytics
+- 👋 Hi, I’m Aldhair and I'm Currently 24 
+- 👀 I’m interested in Data Science y Machine Learning ❤️🤖
+- 🌱 I’m currently learning Data Analytics 📊
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
